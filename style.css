@@ -90,6 +90,7 @@ a{
     height: 100%;
     z-index: 10000;
     font-weight: 600;
+    outline: none;
     
 }
 .link:hover{
@@ -102,6 +103,7 @@ a{
 }
 a:hover{
     color: black;
+    outline: none;
 }
 img:hover{
     cursor: pointer;
